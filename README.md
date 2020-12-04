@@ -14,7 +14,7 @@
 
 * **Kaleido Spiral**
 
-![](https://www.github.com/JayantGoel001/Turtle/blob/master/Kaleido%20Spiral.png)
+![](https://github.com/JayantGoel001/Turtle/blob/master/Kaleido%20Spiral.png)
   
 * **Kaleido Spiral**
 
