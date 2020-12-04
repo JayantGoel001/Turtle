@@ -69,6 +69,17 @@ createRectangle(5, 5, "black")
 
 t.goto(-65, 138)
 createRectangle(5, 50, "black")
+
+t.goto(-155, 130)
+createRectangle(25, 25, "green")
+t.goto(-147, 130)
+createRectangle(15, 10, t.bgcolor())
+
+t.goto(50, 130)
+createRectangle(25, 25, "green")
+t.goto(58, 130)
+createRectangle(15, 10, t.bgcolor())
+
 t.hideturtle()
 
 wn.mainloop()
