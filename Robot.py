@@ -26,7 +26,7 @@ def createRectangle(length, breadth, color):
 wn = t.getscreen()
 t.bgcolor("black")
 t.penup()
-t.speed(100)
+t.speed(5)
 
 t.goto(-100, -150)
 createRectangle(20, 50, "blue")
