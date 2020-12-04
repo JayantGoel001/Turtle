@@ -6,7 +6,7 @@
 
 * **Figures**
 
-![](https://www.github.com/JayantGoel001/Turtle/blob/master/figures.png)
+![](https://github.com/JayantGoel001/Turtle/blob/master/figures.png)
 
 * **Robot**
 
@@ -18,7 +18,7 @@
   
 * **Kaleido Spiral**
 
-![](https://www.github.com/JayantGoel001/Turtle/blob/master/Kaleido%20Spiral%20with%20Square.png)
+![](https://github.com/JayantGoel001/Turtle/blob/master/Kaleido%20Spiral%20with%20Squares.png)
 
 * **Moving Turtle**
 
